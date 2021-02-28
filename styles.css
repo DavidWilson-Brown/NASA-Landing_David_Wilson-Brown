@@ -1,0 +1,59 @@
+body {
+    width: 850px;
+    height: 774px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    width: 850px;
+    height: 450px;
+    background-image: url(https://i.ibb.co/7GkYwVY/isaac-sloman-d-LVV1-Fy-JLdk-unsplash.jpg);
+   width: auto;  
+   font-size: 30px;
+   font-weight: 900;
+   color: #EBEBEB;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p {
+    font-weight: lighter;
+    color: #101010;
+}
+
+main {
+    height: 324px;
+    background-color: #EBEBEB;
+    justify-content: space-between;
+    margin-top: 20px;
+    display: flex;
+}
+
+article {
+    width: 270;
+    padding: 20px;
+    line-height: 150%;
+}
+
+button {
+    height: 30px;
+    width: 60px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    background: #4D4D4D;
+    border: #4D4D4D;
+    margin-top: 10px;
+}
+
+form {
+    line-height: 150%;
+}
